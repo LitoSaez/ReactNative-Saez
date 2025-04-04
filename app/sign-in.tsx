@@ -37,23 +37,23 @@ const Auth = () => {
         }}
       >
         <Image
-          source={images.onboarding}
+          source={images.wallpaper}
           className="w-full h-4/6"
           resizeMode="contain"
         />
 
         <View className="px-10">
           <Text className="text-base text-center uppercase font-rubik text-black-200">
-            Welcome To Real Scout
+            Welcome To Homeover
           </Text>
 
           <Text className="text-3xl font-rubik-bold text-black-300 text-center mt-2">
-            Let's Get You Closer To {"\n"}
+            Look For A Place For{"\n"}
             <Text className="text-primary-300">Your Ideal Home</Text>
           </Text>
 
           <Text className="text-lg font-rubik text-black-200 text-center mt-12">
-            Login to Real Scout with Google
+            Login to Homeover with Google
           </Text>
 
           <TouchableOpacity
