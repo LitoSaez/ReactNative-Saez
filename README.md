@@ -6,3 +6,8 @@ saez102503
 
 SET-UP THE AUTH OR CREATE NEW USER AUTH
 
+CLONE THE PROJECT 
+
+https://github.com/LitoSaez/ReactNative-Saez.git
+
+NAVIGATE TO 
