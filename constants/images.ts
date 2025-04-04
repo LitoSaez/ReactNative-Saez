@@ -1,4 +1,4 @@
-import onboarding from "@/assets/images/onboarding.png";
+import wallpaper from "@/assets/images/wallpaper.jpg";
 import avatar from "@/assets/images/avatar.png";
 import newYork from "@/assets/images/new-york.png";
 import japan from "@/assets/images/japan.png";
@@ -9,7 +9,7 @@ import map from "@/assets/images/map.png";
 import noResult from "@/assets/images/no-result.png";
 
 export default {
-  onboarding,
+  wallpaper,
   avatar,
   newYork,
   japan,
