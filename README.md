@@ -10,4 +10,13 @@ CLONE THE PROJECT
 
 https://github.com/LitoSaez/ReactNative-Saez.git
 
-NAVIGATE TO 
+NAVIGATE TO cd ReactNative-Saez-main
+
+INSTALL DEPENDENCIES BY EXECUTING npm install
+IF NOT COMPLETELY WORK, YOU CAN JUST USE THIS npm fix audit
+
+RUN THE PROJECT USING npx expo start
+
+SCAN THE QR CODE IN YOUR ANDROID WITH Expo Go application
+
+Done!
